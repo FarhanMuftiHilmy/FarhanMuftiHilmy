@@ -9,6 +9,8 @@ Here are some information about me:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Stay Alive
 
+### Github Statistics
+
 <p align="left">
 <a href="https://github.com/FarhanMuftiHilmy">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FarhanMuftiHilmy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -16,3 +18,10 @@ Here are some information about me:
 </a>
 </p>
 
+### List of My Chosen Weapons:
+
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
