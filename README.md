@@ -7,7 +7,7 @@ Here are some information about me:
 - 🔭 I’m currently studying at Software Engineering Technology Sekolah Vokasi Universitas Gadjah Mada
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/farhan-mufti-hilmy-17bba1195/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Stay Alive
+- ⚡ Fun fact: Still Alive
 
 ### Github Statistics
 
