@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **FarhanMuftiHilmy/FarhanMuftiHilmy** this is my ✨ _special_ ✨ repository because it's my GitHub profile.
+I'm **FarhanMuftiHilmy/FarhanMuftiHilmy** this is my ✨ _special_ ✨ thing because it's my GitHub profile.
 
 Here are some information about me:
 
